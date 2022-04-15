@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dars.fabian@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-2C41CB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FThatShitImOut)
 <br>
-![](https://github-readme-stats.vercel.app/api?username=Dr-Fabian&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=DarsFabian&show_icons=true&theme=dracula)
 <br>
 <br>
 <br>
@@ -37,4 +37,4 @@
 <br>
 <br>
 <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-fabian)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarsFabian)
