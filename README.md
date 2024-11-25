@@ -1,6 +1,8 @@
 # Fabian Darius
 
-🪐 Computer Science Sophomore studying in Avignon, France at CERI.
+🪐 Studying Computer Science in Avignon, France at CERI.
+<br>
+Mostly everything below is irrelevant now.
 
 ## 📭 Contact Me :
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dars.fabian@gmail.com)
